@@ -8,9 +8,9 @@ export const projects = [
     static: true,
   },
   {
-    title: 'Vazzle',
-    subtitle: 'Modular puzzle-shaped planters',
-    description: 'My personal project is modular planters. I've currently created a 3D model for concrete production and registered a patent',
+    title: 'Lento',
+    subtitle: 'Editorial street portrait',
+    description: 'Street portrait series exploring soft afternoon light.',
     image: '/images/projects/02.svg',
   },
   {
